@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Barca Image Downloader</string>
+    <string name="download">download</string>
+    <string name="text_url">url..</string>
+    <string name="image_fr">Image</string>
+    <string name="images">Images</string>
+    <string name="upload">Image Uploaded</string>
+    <string name="format_jpg">.jpg</string>
+    <string name="fraction">/</string>
+    <string-array name="imageUrls">
+        <item name="1">https://i.ytimg.com/vi/Ew_h1H-3pNo/maxresdefault.jpg</item>
+        <item>https://e00-marca.uecdn.es/assets/multimedia/imagenes/2018/08/10/15339178795448.jpg</item>
+        <item>https://cdn.images.express.co.uk/img/dynamic/67/590x/Barcelona-news-Manchester-United-Samuel-Umtiti-925959.jpg</item>
+        <item>https://cdn.images.dailystar.co.uk/dynamic/58/photos/960000/620x/Jordi-Alba-609872.jpg</item>
+        <item>https://images.firstpost.com/wp-content/uploads/2017/09/Sergi-Roberto-rEUTERS-380.jpg</item>
+        <item>https://cdn.images.express.co.uk/img/dynamic/67/590x/Sergio-Busquets-918177.jpg</item>
+        <item>https://cdn.images.express.co.uk/img/dynamic/67/590x/Ivan-Rakitic-Man-Utd-Barcelona-Man-City-932019.jpg</item>
+        <item>https://i.ytimg.com/vi/WiHWbfMl48s/maxresdefault.jpg</item>
+        <item>https://cdn.images.dailystar.co.uk/dynamic/58/photos/917000/620x/Ousmane-Dembele-682207.jpg</item>
+        <item>https://uma.edu.ve/periodico/wp-content/uploads/2018/06/Messi.jpg</item>
+        <item>https://www.sampnews24.com/wp-content/uploads/2017/12/suarez-esultanza-barcellona-settembre-2017.jpg</item>
+    </string-array>
+
+    <string-array name="imageName">
+        <item>1.  Marc-André ter Stegen</item>
+        <item>3.  Gerard Piqué</item>
+        <item>23.  Samuel Umtiti</item>
+        <item>18.  Jordi Alba</item>
+        <item>20.  Sergi Roberto</item>
+        <item>5.  Sergio Busquets</item>
+        <item>4.  Ivan Rakitic</item>
+        <item>7.  Philippe Coutinho </item>
+        <item>11.  Ousmane Dembélé</item>
+        <item>10.  Lionel Messi</item>
+        <item>9.  Luis Suárez</item>
+    </string-array>
+</resources>
